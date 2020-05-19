@@ -1,5 +1,3 @@
-# llSPS-INT-892-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
-Intelligent Customer Help Desk with Smart Document Understanding
 
 ### llSPS-INT-892-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
