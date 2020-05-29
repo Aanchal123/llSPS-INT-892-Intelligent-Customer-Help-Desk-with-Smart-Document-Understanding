@@ -11,4 +11,4 @@ In this project, there will be another option. If the customer question is about
 
 **NODE-RED Dashboard link after deploying :https://node-red-gvlgg.eu-gb.mybluemix.net/ui**
 
-**Final Project Video: https://youtu.be/sUc1xLJhpJ8**
+**Final Project Video: https://youtu.be/oB82LEw5wP0**
